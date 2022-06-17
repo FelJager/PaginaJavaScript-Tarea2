@@ -230,11 +230,12 @@ section {
 
 #footer {
     height: 10%;
-    background: #000000;
+    background: #525252;
     border-radius: 10px;
-    border: 1px solid #000000;
+    border: 1px solid #525252;
     margin: 5px;
 	color: #CCCCCC;
+	padding: 50px;
 }
 
 #footer h2 {
