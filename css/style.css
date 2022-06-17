@@ -230,9 +230,9 @@ section {
 
 #footer {
     height: 10%;
-    background: #525252;
+    background: #000000;
     border-radius: 10px;
-    border: 1px solid #525252;
+    border: 1px solid #000000;
     margin: 5px;
 	color: #CCCCCC;
 	padding: 50px;
@@ -250,10 +250,10 @@ section {
 	padding-left: 70px;
 }
 
-img:hover {
-    transform: scale(1.2);
-}
 
+#grid-container {
+	display: grid;
+}
 
 @media screen and (max-width: 800px){
 	#menu {position:relative}
