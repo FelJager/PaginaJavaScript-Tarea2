@@ -19,7 +19,7 @@
 }
 
 .cover  {
-    height: 100vh;
+    height: 50vh;
     width: 100%;
     background: -webkit-gradient(linear, left top, left bottom, 
     from(rgba(0,0,0,0.05)), to(rgba(0,0,0,0)));
@@ -35,12 +35,13 @@
     justify-content: center;
     -webkit-box-align: center;
     align-items: center;
+    background-color: aquamarine;
 }
 
 h1 {
     font-size: 3rem;
-    font-weight: 700;
-    color: #fff;
+    font-weight: 400;
+    color: rgb(8, 6, 6);
     margin: 0 0 1.5rem;
 }
 
